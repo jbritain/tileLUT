@@ -11,3 +11,5 @@ TEXTURE_3D RG8 32 32 32 RG UNSIGNED_BYTE
 ```
 
 In this case, I have a 32x32x32 LUT and am using the R and G channels.
+
+This code is so simple I'm not gonna make any requests regarding the use of it, and your LUTs are of course, yours. That said, if you found this tool useful, consider mentioning the tool in whatever project you used it for :)
